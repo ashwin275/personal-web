@@ -15,7 +15,7 @@ $(function () {
             $this.prop("disabled", true);
 
             $.ajax({
-                url: "https://script.google.com/macros/s/AKfycbwXgXI3OahjFCOnawPB1K-isNI_VrZLEIGvd2hvR3ok_zeU0PFWzCAjTvUnGCkmqTCs/exec",
+                url: "",
                 type: "POST",
                 data: {
                     name: name,
